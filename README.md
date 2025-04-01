@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/63c7a09d-97e7-4ee9-a9e4-32bf2fc7d38d)# PowerBI-Online-Courses-Analysis
 
 Online Course Analysis Dashboard
 
@@ -11,6 +10,8 @@ This project is designed for an EdTech startup that aims to expand its offerings
 🎯 Key Insights & Analysis
 
 1️⃣ Course Distribution by Category & Sub-category
+
+![course type popularity](https://github.com/user-attachments/assets/1e562108-7047-4b3e-bbf6-0b1befdd8303)
 
 Visual Representation: A bar chart displaying the number of courses per category and sub-category.
 
@@ -43,6 +44,8 @@ Insights: Identifies the most widely used languages for course creation.
 Use Case: Helps in strategic decision-making regarding language preferences for future courses.
 
 5️⃣ Language Preferences for the Top 5 Categories
+
+![preferred course language](https://github.com/user-attachments/assets/a83716fa-e1e1-4de1-b365-ae18294aa498)
 
 Visual Representation: A stacked bar chart showing the top 5 categories based on user preferences and their language distribution.
 
