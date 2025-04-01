@@ -69,10 +69,6 @@ Insights: Helps the client identify top-performing educators who can be approach
 
 Use Case: Enables the startup to form partnerships with top-rated educators to improve course quality.
 
-📷 Dashboard Snapshots
-
-Screenshots of the Power BI dashboard and key visuals will be included in the Snapshots/ folder in this repository for reference. Each snapshot corresponds to a key insight listed above.
-
 🛠 Technical Details
 
 Tool Used: Power BI
